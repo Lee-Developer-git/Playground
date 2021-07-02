@@ -1,2 +1,2 @@
-# TIL
-Today I Learned
+# Playground
+공부한 흔적들 쌓아두는 공간
